@@ -1,2 +1,4 @@
 .idea/
 mconfig.py
+venv/
+logs/
